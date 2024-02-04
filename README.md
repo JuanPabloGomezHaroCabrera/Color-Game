@@ -32,25 +32,25 @@ python ColorGame.py
 3. Enjoy.
 
 ## Project Structure
-1. 📂 Assets
-    11. 📂 Audio
+- 📂 Assets
+    - 📂 Audio
         - 🎵 Musica_Ganador.wav
         - 🎵 MusicaDeEspera_ChallengeColor.wav
         - 🎵 MusicaJuego.wav
-    12. 📂 Imagenes
+    - 📂 Imagenes
         - 🖼️ estrella.png
         - 🖼️ universo.png
-    13. 📂 Prefabs
+    - 📂 Prefabs
         - 📄 Fugaz.py
         - 📄 Obstaculo.py
         - 📄 Player.py
-2. 📂 Game
+- 📂 Game
     - 📄 GameController.py
-3. 📂 Resources
+- 📂 Resources
     - 📄 Colors.py
     - 📄 Fonts.py
     - 📄 Ventana.py
-4. 📂 src
+- 📂 src
     - 📄 ColorGame.py
 
 
