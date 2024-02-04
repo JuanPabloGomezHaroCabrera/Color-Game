@@ -33,45 +33,26 @@ python ColorGame.py
 
 ## Project Structure
 ├── 📂 Assets
-
 │   ├── 📂 Audio
-
 │   │   ├── 🎵 Musica_Ganador.wav
-
 │   │   ├── 🎵 MusicaDeEspera_ChallengeColor.wav
-
 │   │   └── 🎵 MusicaJuego.wav
-
 │   ├── 📂 Imagenes
-
 │   │   ├── 🖼️ estrella.png
-
-│   │   └── 🖼️ universo,png
-
-│   └── 📂  Prefabs
-
-│   │   ├── 📄 Fugaz.py
-
-│   │   ├── 📄 Obstaculo.py
-
-│   │   └── 📄 Player.py
-
+│   │   └── 🖼️ universo.png
+│   └── 📂 Prefabs
+│       ├── 📄 Fugaz.py
+│       ├── 📄 Obstaculo.py
+│       └── 📄 Player.py
 ├── 📂 Game
-
-│   └── 📄  GameController.py
-
+│   └── 📄 GameController.py
 ├── 📂 Resources
-
-│   ├── 📄  Colors.py
-
-│   ├── 📄  Fonts.py
-
-│   └── 📄  Ventana.py
-
+│   ├── 📄 Colors.py
+│   ├── 📄 Fonts.py
+│   └── 📄 Ventana.py
 └── 📂 src
+    └── 📄 ColorGame.py
 
-    └── 📄  ColorGame.py
-    
 
 1. `Assets`: Contains the Audio, Images and Prefabs (player, obstacle...).
 2. `Game`: Contain the class Game Controller to manage the game.
