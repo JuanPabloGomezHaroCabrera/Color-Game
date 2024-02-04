@@ -8,20 +8,21 @@ This project is a game where the player must change colors to navigate through o
    ```bash
    git clone https://github.com/JuanPabloGomezHaroCabrera/Color-Game.git
 
-2. Create your venv.
+2. Navigate to the project directory
+    ```bash
+    cd Color-Game
+
+3. Create your venv.
    ```bash
    python -m venv venv
 
-3. Activate your venv (windows).
+4. Activate your venv (windows).
    ```bash
    call venv/Scripts/activate
 
-4. Install the requirements.
+5. Install the requirements.
    ```bash
    pip install -r requirements.txt
-
-## Navigate to the project directory
-cd Color-Game
 
 ## Run the game
 python ColorGame.py
